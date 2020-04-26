@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffd0cc0f-9309-4642-9e24-093da785e45b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DubboDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-api/src/main/java/com/alibaba/dubbo/demo/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-api/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-api/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-api/target/classes/com/alibaba/dubbo/demo/DemoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/alibaba/dubbo/demo/impl/dubbo/consumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/consumer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/classes/com/alibaba/dubbo/demo/impl/dubbo/consumer/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/classes/consumer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/classes/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer2/src/main/resources/consumer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer2/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer2/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer2/target/classes/com/alibaba/dubbo/consumer/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer2/target/classes/consumer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer2/target/classes/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/alibaba/dubbo/demo/impl/DemoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/alibaba/dubbo/demo/impl/Provider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-provider/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-provider/src/main/resources/provider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/com/alibaba/dubbo/demo/impl/DemoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/com/alibaba/dubbo/demo/impl/Provider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/provider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\idea_demo\DubboDemo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\repository" />
+        <option name="mavenHome" value="C:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.6.0\conf\备份-settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ay9urtPht4RxmB7ufD0liNBqp3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16015625" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\idea_demo\DubboDemo\dubbo-provider\src\main\resources" />
+      <recent name="F:\idea_demo\DubboDemo\dubbo-consumer2\src\main" />
+      <recent name="F:\idea_demo\DubboDemo\dubbo-consumer2\src\main\resources" />
+      <recent name="F:\idea_demo\DubboDemo\dubbo-api\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Consumer (1)">
+    <configuration name="Consumer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.dubbo.consumer.Consumer" />
+      <module name="dubbo-consumer2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.dubbo.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.dubbo.demo.impl.dubbo.consumer.Consumer" />
+      <module name="dubbo-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.dubbo.demo.impl.dubbo.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.dubbo.demo.impl.Provider" />
+      <module name="dubbo-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.dubbo.demo.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Consumer (1)" />
+        <item itemvalue="Application.Consumer" />
+        <item itemvalue="Application.Provider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffd0cc0f-9309-4642-9e24-093da785e45b" name="Default Changelist" comment="" />
+      <created>1587697191364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587697191364</updated>
+      <workItem from="1587697194150" duration="13631000" />
+      <workItem from="1587861359498" duration="1704000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1587879829970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587879829970</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1587720701132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1587720701132" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1587699242778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587699242778" />
+    <state x="343" y="7" key="CommitChangelistDialog2" timestamp="1587879828493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="343" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587879828493" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587879726485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587879726485" />
+    <state width="746" height="210" key="GridCell.Tab.0.bottom" timestamp="1587721404278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587721404278" />
+    <state width="746" height="210" key="GridCell.Tab.0.center" timestamp="1587721404278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587721404278" />
+    <state width="746" height="210" key="GridCell.Tab.0.left" timestamp="1587721404278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587721404278" />
+    <state width="746" height="210" key="GridCell.Tab.0.right" timestamp="1587721404278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587721404278" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1587719588296">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587719588296" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1587879906643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587879906643" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1587861631672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587861631672" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1587716961632">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1587716961632" />
+    <state x="178" y="107" key="new project wizard" timestamp="1587697516783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587697516783" />
+  </component>
+</project>
